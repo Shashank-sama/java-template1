@@ -10,7 +10,7 @@ public class App1 {
             case 3:
                 System.out.println("Weird");
                 break;
-            case 24:
+            case 21:
                 System.out.println("Not Weird");
                 break;
             default:
