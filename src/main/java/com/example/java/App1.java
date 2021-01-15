@@ -2,7 +2,7 @@ package com.example.java;
 
 import java.util.Scanner;
 
-public class App {
+public class App1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int T = scanner.nextInt();
@@ -14,7 +14,7 @@ public class App {
                 System.out.println("Not Weird");
                 break;
             default:
-                System.out.println();
+                System.out.println("9\n98");
         }
     }
 }
